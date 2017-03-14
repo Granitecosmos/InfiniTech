@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+	<ResearchProjectDef>
+		<defName>infinitech01</defName>
+		<label>Solve the unsolvable!</label>
+		<description>The next statement is true. The previous statement is false. What happens when an irresistible force meets an unmovable object? Can a man drown in the fountain of life? If you quit quitting, does that make you a quitter? If you replaced all parts of an object, would it still be the same object? If you try to fail, and succeed, which have you done? I know one thing, and that is that I know nothing. Life is a preparation for the future; and the best preparation for the future is to live as if there were none. If someone doesn't value evidence, what evidence are you going to provide to prove that they should value it? If someone doesn’t value logic, what logical argument could you provide to show the importance of logic? It is not certain that everything is uncertain.</description>
+		<baseCost>100000000000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites></prerequisites>
+	</ResearchProjectDef>
+</ResearchProjectDefs>
