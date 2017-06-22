@@ -14,3 +14,7 @@ I honestly can't think of anything that would be incompatible with this.
 ## Changelog
 Version 1.0.16.0.0
 - Initial release
+
+Version 1.0.17b.0.0
+- Updated for A17b
+- Switched to patching for editing vanilla defs
