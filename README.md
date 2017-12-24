@@ -1,5 +1,5 @@
 # InfiniTech
-Have you ever wanted to max out all your pawns' research skill? Have you ever wondered why that moron who made the Modular Power Armor mod added research skill as requirements for the good stuff?
+Have you ever wanted to max out all your pawns' research skills? Have you ever wondered why that moron who made the Modular Power Armor mod added research skill as requirements for the good stuff?
 
 **Well fear not, for I bring you InfiniTech!**
 
@@ -18,3 +18,9 @@ Version 1.0.16.0.0
 Version 1.0.17b.0.0
 - Updated for A17b
 - Switched to patching for editing vanilla defs
+
+Version 1.0.18.0.0
+- Updated for B18
+- Optimized Xpathing code
+- Added separate research tab for the mod
+- InfiniTech's research is now literally infinite
